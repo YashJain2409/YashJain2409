@@ -66,7 +66,7 @@ Expense splitting application.
 
 ## 📫 Contact Me
 
-<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashjain8126)  
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yash-jain-portfolio.netlify.app)
-</div>
+
