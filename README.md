@@ -19,8 +19,6 @@ I love building **web applications** and learning new technologies. My focus is 
 
 ## 📂 Featured Projects
 
-<div align="center">
-
 ### 💻 ResultManagementSystem
 [![ResultManagementSystem](https://img.shields.io/badge/ResultManagementSystem-JavaScript-blue?style=for-the-badge)](https://github.com/YashJain2409/ResultManagementSystem)  
 Web app for managing college results.
@@ -42,8 +40,6 @@ Backend for chat application using **Spring Boot**.
 ### 💰 Splitwise
 [![Splitwise](https://img.shields.io/badge/Splitwise-Java-red?style=for-the-badge)](https://github.com/YashJain2409/Splitwise)  
 Expense splitting application.
-
-</div>
 
 ---
 
